@@ -1,53 +1,43 @@
 [
     {
       "id": "12345",
-      "cover": "https://fakecover.com/12345",
+      "cover": "https://i.ibb.co/w7SN13T/diego-ph-f-Iq0t-ET6llw-unsplash.jpg",
       "title": "The Secret Garden",
       "author": "Samantha Jones",
-      "author_img": "https://fakeauthorimg.com/samanthajones",
+      "author_img": "https://i.ibb.co/b7CxmvV/man1.jpg",
       "posted_date": "2024-03-15",
       "reading_time": 20,
       "hashtags": ["#fiction", "#gardens", "#mystery"]
     },
     {
       "id": "67890",
-      "cover": "https://fakecover.com/67890",
+      "cover": "https://i.ibb.co/pbp22xH/nasa.jpg",
       "title": "Beyond the Horizon",
       "author": "Michael Smith",
-      "author_img": "https://fakeauthorimg.com/michaelsmith",
+      "author_img": "https://i.ibb.co/TRWnhy9/woman.jpg",
       "posted_date": "2024-03-16",
       "reading_time": 30,
       "hashtags": ["#scifi", "#adventure", "#space"]
     },
     {
       "id": "24680",
-      "cover": "https://fakecover.com/24680",
+      "cover": "https://i.ibb.co/zGVmYKP/laptop.jpg",
       "title": "The Forgotten Kingdom",
       "author": "Emily Brown",
-      "author_img": "https://fakeauthorimg.com/emilybrown",
+      "author_img": "https://i.ibb.co/XjY6YRF/man3.jpg",
       "posted_date": "2024-03-14",
       "reading_time": 25,
       "hashtags": ["#fantasy", "#magic", "#adventure"]
     },
     {
       "id": "13579",
-      "cover": "https://fakecover.com/13579",
+      "cover": "https://i.ibb.co/f2Pn0XS/man.jpg",
       "title": "Shadows of the Past",
       "author": "David Johnson",
-      "author_img": "https://fakeauthorimg.com/davidjohnson",
+      "author_img": "https://i.ibb.co/QMGTpkj/man4.jpg",
       "posted_date": "2024-03-13",
       "reading_time": 22,
       "hashtags": ["#thriller", "#mystery", "#suspense"]
-    },
-    {
-      "id": "98765",
-      "cover": "https://fakecover.com/98765",
-      "title": "Into the Abyss",
-      "author": "Jessica Lee",
-      "author_img": "https://fakeauthorimg.com/jessicalee",
-      "posted_date": "2024-03-17",
-      "reading_time": 18,
-      "hashtags": ["#horror", "#darkfiction", "#psychologicalthriller"]
     }
   ]
   
